@@ -29,3 +29,17 @@ Imagen de la transcripción de una ejecución real (no captura del escritorio):
 
 ![Ejecución con 12 y 4](ejecucion.png)
 
+## Pruebas y límites
+
+- 12 y 4: resultados 16, 8, 48 y 3.
+- 5 y 0: suma 5, resta 5, producto 0 y aviso de división no definida.
+- -2.5 y 2: resultados -0.5, -4.5, -5 y -1.25.
+- Una entrada como `hola` muestra un aviso y termina sin traceback.
+
+Usar punto decimal. Se esperan números finitos de magnitud habitual.
+El programa realiza una sola consulta por ejecución; no incluye menú.
+
+## Colaboración
+
+Crear una rama, describir los cambios, comprobar los casos anteriores
+y proponer un Pull Request hacia `main`.
