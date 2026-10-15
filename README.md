@@ -34,11 +34,13 @@ Con 12 y 4: suma 16, resta 8, multiplicación 48 y división 3.
 
 ## Evidencia de ejecución
 
-Imagen de la transcripción de una ejecución real (no captura del escritorio):
+Captura real del programa en Terminal, con entradas 1 y 2:
 
-![Ejecución con 12 y 4](ejecucion.png)
+![Ejecución real con 1 y 2](ejecucion_real.png)
 
 ## Pruebas y límites
+
+- 1 y 2 (captura): suma 3, resta -1, multiplicación 2 y división 0.5.
 
 - 12 y 4: resultados 16, 8, 48 y 3.
 - 5 y 0: suma 5, resta 5, producto 0 y aviso de división no definida.
