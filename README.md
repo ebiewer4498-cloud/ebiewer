@@ -8,10 +8,19 @@ resta, multiplicación y división. No utiliza bibliotecas externas.
 Desde la carpeta del proyecto:
 
 ```bash
-python3 calculadora_basica.py
+python3 main.py
 ```
 
-En Windows también puede usarse `py calculadora_basica.py`.
+En Windows también puede usarse `py main.py`.
+
+## Archivos del proyecto
+
+- `main.py`: programa principal de la calculadora.
+- `calculadora_basica.py`: conserva el nombre solicitado en la consigna; realiza las mismas operaciones.
+- `.gitignore`: excluye cachés, entornos virtuales y configuración local.
+- `README.md`: instrucciones, pruebas y documentación.
+
+También puede ejecutarse `python3 calculadora_basica.py`.
 
 ## Funcionamiento
 
